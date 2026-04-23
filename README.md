@@ -58,6 +58,11 @@ stack.forEach((area, tools) ->
 
 ## 🛠️ Stack & Ferramentas
 
+<table width="100%" style="max-width:900px; margin:auto;">
+<tr>
+
+<td width="65%" valign="top">
+
 **— Linguagens —**
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -87,7 +92,30 @@ stack.forEach((area, tools) ->
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
----
+</td>
+
+<td width="35%" align="center" valign="top">
+
+<div style="
+  display:inline-block;
+  padding:6px;
+  border-radius:12px;
+  background: linear-gradient(145deg, #111, #000);
+  border:1px solid #222;
+  box-shadow: 0 0 12px rgba(255,255,255,0.08);
+  max-width:260px;
+">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZpOG9lcm9xdzJ2a20xNTNuYTV2Nno0OTR6MXVwd2Q2NHFzbHdibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
+     width="100%"
+     style="border-radius:10px; filter: grayscale(100%) contrast(110%); max-height:260px; object-fit:cover;" />
+
+</div>
+
+</td>
+
+</tr>
+</table>
 
 ## 📡 Interesses
 
