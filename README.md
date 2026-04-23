@@ -26,7 +26,7 @@ $ tux quem_eu_sou.txt
 ```
 
 ```
-Nome     : Marcus Vinícius
+Nome     : Marcus Vinicius
 Handle   : MVBM7
 Área     : Engenharia de Software · Backend
 Foco     : Sistemas Escaláveis · Arquitetura Limpa · Alta Performance
