@@ -2,17 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=150&section=header&text=&animation=fadeIn" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  BANNER — SVG inline via img tag (scanlines + pixel title) -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ```
-███╗   ███╗██╗   ██╗██████╗ ███╗   ███╗███████╗
-████╗ ████║██║   ██║██╔══██╗████╗ ████║╚════██║
-██╔████╔██║██║   ██║██████╔╝██╔████╔██║    ██╔╝
-██║╚██╔╝██║╚██╗ ██╔╝██╔══██╗██║╚██╔╝██║   ██╔╝ 
-██║ ╚═╝ ██║ ╚████╔╝ ██████╔╝██║ ╚═╝ ██║   ██║  
-╚═╝     ╚═╝  ╚═══╝  ╚═════╝ ╚═╝     ╚═╝   ╚═╝  
+
+▓▓▓╗   ▓▓▓╗▓▓╗   ▓▓╗▓▓▓▓▓▓╗ ▓▓▓╗   ▓▓▓╗▓▓▓▓▓▓▓╗
+▓▓▓▓╗ ▓▓▓▓║▓▓║   ▓▓║▓▓╔══▓▓╗▓▓▓▓╗ ▓▓▓▓║╚════▓▓║
+▓▓╔▓▓▓▓╔▓▓║▓▓║   ▓▓║▓▓▓▓▓▓╔╝▓▓╔▓▓▓▓╔▓▓║   ▓▓╔═╝
+▓▓║╚▓▓╔╝▓▓║╚▓▓╗ ▓▓╔╝▓▓╔══▓▓╗▓▓║╚▓▓╔╝▓▓║  ▓▓╔═╝ 
+▓▓║ ╚═╝ ▓▓║ ╚▓▓▓▓╔╝ ▓▓▓▓▓▓╔╝▓▓║ ╚═╝ ▓▓║  ▓▓▓▓▓╗
+╚═╝     ╚═╝  ╚═══╝  ╚═════╝ ╚═╝     ╚═╝  ╚════╝ ™
+
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Arquitetura+Limpa+%7C+Sistemas+Escal%C3%A1veis+%7C+Alta+Performance;Kotlin+%7C+Golang+%7C+PostgreSQL+%7C+MongoDB." alt="Typing SVG" />
