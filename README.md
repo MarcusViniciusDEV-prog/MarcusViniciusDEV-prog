@@ -22,7 +22,7 @@
 ## `whoami`
 
 ```bash
-$ cat sobre_mim.txt
+$ tux quem_eu_sou.txt
 ```
 
 ```
@@ -31,8 +31,8 @@ Handle   : MVBM7
 Área     : Engenharia de Software · Backend
 Foco     : Sistemas Escaláveis · Arquitetura Limpa · Alta Performance
 Stack    : Java · Spring Boot · Kotlin · Golang · Node.js
-Status   : Sempre construindo algo novo 🔄
-Missão   : Transformar lógica em sistemas que funcionam de verdade
+Status   : Sigo desenvolvendo
+
 ```
 
 ---
