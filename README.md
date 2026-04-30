@@ -152,14 +152,4 @@ for area, descricao in interesses.items():
 
 </div>
 
----
-
-```bash
-$ echo "Obrigado pela visita! ⭐ Deixe uma star se curtiu algum projeto"
-```
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=MarcusViniciusDEV-prog&style=flat-square&color=000000&label=VISITAS" />
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:000000&height=120&section=footer" width="100%"/>
